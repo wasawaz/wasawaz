@@ -1,4 +1,6 @@
-### Hi there 👋
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=wasawaz&show_icons=true&theme=tokyonight&title_color=00dbcd&text_color=ffffff&hide_border=true&locale=en&layout=compact)
+
+![Contribute Stat](https://github-readme-stats.vercel.app/api?username=wasawaz&show_icons=true&theme=tokyonight&title_color=00dbcd&text_color=ffffff&hide_border=true&locale=en)
 
 <!--
 **wasawaz/wasawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
